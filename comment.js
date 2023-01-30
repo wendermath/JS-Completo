@@ -6,6 +6,6 @@ console.log("Imprimir esse Texto!");
 que um 
 comentario de
 multiplas
-linhas de codeigo */
+linhas de codigo */
 
 console.log("Passo do comentario!");
