@@ -1,5 +1,5 @@
 
-// Bloco de codigo de numeros pares
+// Bloco de codigo de numeros Inpares
 {
     console.log(1);
     console.log(3);
